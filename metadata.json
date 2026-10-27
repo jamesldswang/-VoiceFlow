@@ -1,0 +1,6 @@
+{
+  "name": "聲動轉寫 VoiceFlow",
+  "description": "全平台錄音與實時語音轉文字 PWA 應用。支援手機、平板與電腦內建語音引擎，快捷鍵 Alt+R 錄音與 Alt+X 自動停止並複製文字，即時邊錄邊轉。",
+  "requestFramePermissions": ["MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
